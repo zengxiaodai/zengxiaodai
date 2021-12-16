@@ -1,4 +1,4 @@
-### <img src="https://img.shields.io/badge/%E6%9B%BE%E5%B0%8F%E5%91%86-%E5%89%8D%E7%AB%AF-%2337BA8D？logo=programmer">欢迎 👋
+### <img src="https://img.shields.io/badge/%E6%9B%BE%E5%B0%8F%E5%91%86-%E5%89%8D%E7%AB%AF-%2337BA8D">欢迎 👋
 
 ```
                                __                   
